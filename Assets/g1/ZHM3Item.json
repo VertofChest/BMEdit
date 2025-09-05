@@ -13,7 +13,7 @@
             "typename": "PRPOpCode.Int32"
         },
         {
-            "name": "property_94",
+            "name": "HideAction",
             "offset": 148,
             "typename": "PRPOpCode.Bool"
         },
