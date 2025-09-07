@@ -18,7 +18,7 @@
             "typename": "ZItemTemplate.ITEMSIZE"
         },
         {
-            "name": "property_50",
+            "name": "NPCsCanPickup",
             "offset": 80,
             "typename": "PRPOpCode.Bool"
         },
